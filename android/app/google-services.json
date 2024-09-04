@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "135254931319",
+    "firebase_url": "https://wastator-capstone-default-rtdb.firebaseio.com",
+    "project_id": "wastator-capstone",
+    "storage_bucket": "wastator-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135254931319:android:5b4deb019f4ed5c3089372",
+        "android_client_info": {
+          "package_name": "com.example.wastator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XKMjuCxBSlx63fylpSKu095BqSQllnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
